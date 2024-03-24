@@ -16,3 +16,4 @@ Below is a list of methods implemented as part of the Custom Enumerables Project
 - `Enumerable#my_map`
 - `Enumerable#my_inject`
 
+These methods are located in the `lib/my_enumerables.rb` file. Each method has an associated spec file in the `spec` directory to ensure its correctness.
